@@ -1,0 +1,99 @@
+@font-face {
+  font-family: Century Gothic, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+body {
+	background-color: #333;
+	font-size: 14px;
+	color: #eee;
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic, sans-serif;
+	height: 100%;
+	width: 100%;
+	min-width: 800px;
+	position: relative;
+	overflow: auto;
+}
+
+/* CSS untuk form login*/
+
+#kotakLogin {
+    width: 340px;
+    height: 250px;
+    margin: 60px auto 30px;
+    padding: 15px;
+    position: relative;
+
+    /* Styles */
+    background: rgba(68, 231, 93, 0.6); 
+    border-radius: 3px;
+    color: #7e7975;
+    box-shadow:
+        0 2px 2px rgba(0,0,0,0.2),        
+        0 1px 5px rgba(0,0,0,0.2),        
+        0 0 0 5px rgba(255,255,255,0.5); 
+	
+}
+
+input.login {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 3px solid #ebe6e2;
+    border-radius: 5px;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+	
+}
+hr.login{
+	width:94%;
+	color:#000;
+	size:7px;
+}
+
+a.login{
+	text-decoration: underline;
+}
+
+.tombol7 {
+	font-family: Century Gothic, sans-serif;
+	color:#fff;
+	font-size:13px;
+	padding:6px 30px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #7fc70c;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #74b807;
+	display:inline-block;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #a4e271;
+	-moz-box-shadow:inset 0px 1px 0px 0px #a4e271;
+	box-shadow:inset 0px 1px 0px 0px #a4e271;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #89c403), color-stop(1, #77a809) );
+	background:-moz-linear-gradient( center top, #89c403 5%, #77a809 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#89c403', endColorstr='#77a809');
+	background-color:#89c403;
+}
+
+.tombol7:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #77a809), color-stop(1, #89c403) );
+	background:-moz-linear-gradient( center top, #77a809 5%, #89c403 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#77a809', endColorstr='#89c403');
+	background-color:#77a809;
+}
+
+.tombol7:active {
+	position:relative;
+	top:1px;
+}

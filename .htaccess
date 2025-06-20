@@ -1,0 +1,21 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    <IfModule mod_php5.c>
+        RewriteRule ^(.*)$ index.php/$1 [L]
+    </IfModule>
+    <IfModule !mod_php5.c>
+        RewriteRule ^(.*)$ index.php?/$1 [L]
+    </IfModule>
+
+    # REDIRECT HTTP TO HTTPS
+    # RewriteCond %{SERVER_PORT} ^80$
+    # RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+# RewriteEngine On
+# RewriteBase /
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^/(.*)$ index.php?/$1 [L]

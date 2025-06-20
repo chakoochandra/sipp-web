@@ -1,0 +1,56 @@
+.cssTable{margin:5px;clear:both;padding:0px;max-width:100%;border:1px solid #ffffff;-moz-border-radius-bottomleft:0px;-webkit-border-bottom-left-radius:0px;border-bottom-left-radius:0px;-moz-border-radius-bottomright:0px;-webkit-border-bottom-right-radius:0px;border-bottom-right-radius:0px;-moz-border-radius-topright:0px;-webkit-border-top-right-radius:0px;border-top-right-radius:0px;-moz-border-radius-topleft:0px;-webkit-border-top-left-radius:0px;border-top-left-radius:0px;background-color:rgb(240, 240, 240);border-bottom-style:solid;border-color:#008C4B;}
+.cssTable a{color:#259FD3;text-decoration:none;}
+.cssTable h3{font-size:13px;color:rgb(23, 162, 206);font-weight:normal;margin-top:0;margin-bottom:5px;}
+.cssTable table{width:100%;border-width:thin;border-collapse:collapse;table-layout:fixed;}
+.cssTable tr:first-child td a,.cssTable tr:first-child th a{text-decoration:none;color:white;vertical-align:middle;}
+.cssTable tr:first-child,.cssTable tr:first-child th{cursor:pointer;}
+.cssTable #tableinfo tr td a,.cssTable #tableinfo tr th a{text-decoration:none;color:rgb(37, 159, 211);cursor:pointer;}
+.cssTable #tableinfo tr th a:hover{text-decoration:none;color:#FFF;cursor:pointer;}
+.cssTable #tableintable #tableinfo tr td,.cssTable #tableinfo tr th{color:orange;}
+.cssTable tr td a:hover,.cssTable th td a:hover{color:white;}
+.cssTable tr:hover{color:white;}
+.cssTable tr:last-child td:last-child{-moz-border-radius-bottomright:0px;-webkit-border-bottom-right-radius:0px;border-bottom-right-radius:0px;}
+.cssTable table tr:first-child td:first-child,.cssTable table tr:first-child th:first-child{-moz-border-radius-topleft:0px;-webkit-border-top-left-radius:0px;border-top-left-radius:0px;}
+.cssTable table tr:first-child td:last-child{-moz-border-radius-topright:0px;-webkit-border-top-right-radius:0px;border-top-right-radius:0px;}
+.cssTable tr:last-child td:first-child{-moz-border-radius-bottomleft:0px;-webkit-border-bottom-left-radius:0px;border-bottom-left-radius:0px;}
+.cssTable tr:nth-child(odd){background-color:#C9E6C8;}
+.cssTable tr:nth-child(even){background-color:#F7F7F7;}
+.cssTable td, .cssTable th{vertical-align:top;border:1px solid #ffffff;border-width:0px 1px 1px 0px;padding:2px;font-size:13px;letter-spacing:.05em;padding:5px;word-wrap:break-word;color:#666;}
+.cssTable tr:last-child td{border-width:0px 1px 0px 0px;}
+.cssTable tr td:last-child{border-width:0px 0px 1px 0px;}
+.cssTable tr:last-child td:last-child{border-width:0px 0px 0px 0px;}
+.cssTable tr:first-child td,.cssTable tr:first-child th{background:-o-linear-gradient(bottom, #008C4B 5%, #008C4B 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #008C4B), color-stop(1, #008C4B));background:-moz-linear-gradient(center top, #008C4B 5%, #008C4B 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#008C4B", endColorstr="#008C4B");background:-o-linear-gradient(top,#008C4B,02a3cc);background-color:#008C4B;border:0px solid #ffffff;text-align:center;border-width:0px 0px 1px 1px;font-size:13px;color:#ffffff;vertical-align:middle;}
+.cssTable tr:first-child:hover td:hover,.cssTable tr:first-child:hover th:hover{color:white;}
+.cssTable tr:hover{background:#007640;color:#fff;}
+.cssTable tr:hover td{ color: #eee;}
+.cssTable tr:hover a{ color: #FFC000;}
+
+.cssTable tr:first-child td:first-child,.cssTable tr:first-child th:first-child{border-width:0px 0px 1px 0px;}
+.cssTable tr:first-child td:last-child{border-width:0px 0px 1px 1px;}
+#tableDetilPerkara{background-color:#fff;width:100%;border-collapse:collapse;border-color:#008C4B;border-width:1px 1px 1px 1px;}
+#tableDetilPerkara td{color: #444;}
+.detil{border:1px solid #ffffff;border-color:#008C4B;border-collapse:collapse;font-size:13px;margin:5px;}
+.detil #tableDetilPerkara tr td{padding:6px;vertical-align:middle;font-size:13px;word-wrap:break-word;white-space:-moz-pre-wrap !important;white-space:-pre-wrap;white-space:-o-pre-wrap;white-space:pre-wrap;word-wrap:break-word;white-space:normal;}
+.detil #tableDetilPerkara tr td:first-child{background-color:#008C4B;border-bottom:1px solid #ECEAEA;}
+.detil #tableDetilPerkara tr td.header{border-bottom:1px solid #fff;background:#008C4B;border:0px;font-size:20px;color:#111;text-align:center;}
+.detil #tableDetilPerkara tr td.divider{background-color:#A3DBA8;text-align:left;}
+.detil #tableDetilPerkara tr td.divider{color:#fff;font-weight: bold}
+.detil #tableDetilPerkara tr td.buttongroup{background-color:#fff;text-align:center;}
+.detil #tableDetilPerkara tr td:first-child{color:#fff;text-decoration:none;}
+.detil #tableDetilPerkara tr td{color:#111;text-decoration:none;}
+
+#tableDetilPerkara td.first{white-space:nowrap;width:1px;}
+#seperator{padding:1px;}
+.detil #tableDetilPerkara table{}
+.detil #tableDetilPerkara table tr{}
+.detil #tableDetilPerkara table td{white-space:-moz-pre-wrap !important;white-space:-pre-wrap;white-space:-o-pre-wrap;white-space:pre-wrap;word-wrap:break-word;white-space:normal;}
+#detil_page{background-color:snow;width:100%;border-collapse:collapse;border-color:#008C4B;border-width:1px 1px 1px 1px;font-size:13px;}
+#detil_page table{font-size:12px;}
+#detil_page tr td{padding:6px;vertical-align:middle;font-size:12px;word-wrap:break-word;}
+#infoPerkara{border-collapse:collapse;background: #fff;padding:5px;}
+#infoPerkara tr td{border-width:thin;padding:6px;vertical-align:middle;font-size:13px;word-wrap:break-word;white-space:-moz-pre-wrap !important;white-space:-pre-wrap;white-space:-o-pre-wrap;white-space:pre-wrap;word-wrap:break-word;white-space:normal;}
+#infoPerkara a{text-decoration:none;color:rgb(37, 159, 211);cursor:pointer;}
+#first-child{background-color:#008C4B;border-bottom:1px solid #ECEAEA;color:#fff;}
+.removeformbottomspace{margin:0;}
+#infoPerkara tr td.divider{background-color:#A3DBA8;text-align:left;border-bottom:1px solid #ECEAEA;color:#111;font-weight: bold}
+#infoPerkara tr td.header{text-align:left;background:#fff;color:#008C4B;margin-bottom:10px;font-size:20px;}
