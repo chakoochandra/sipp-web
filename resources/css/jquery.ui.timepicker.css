@@ -1,0 +1,38 @@
+.ui-timepicker{font-size:12px;}
+.ui-timepicker-table{width:60px;margin:0;color:#000;background:#bfe0d1;padding:5px;border-radius:0 0 0 0;-moz-border-radius:0 0 0 0;-webkit-border-radius:0 0 0 0;-o-border-radius:0 0 0 0;border:0 none;font-family:Century Gothic, sans-serif;padding-left:10px;font-size:11px;}
+.ui-timepicker-inline{display:inline;}
+#ui-timepicker-div{padding:0.2em;background-color:#fff;}
+.ui-timepicker-table{display:inline-table;width:0;}
+.ui-timepicker-table table{margin:0.15em 0 0 0;border-collapse:collapse;}
+.ui-timepicker-hours, .ui-timepicker-minutes{padding:0.2em;}
+.ui-timepicker-table .ui-timepicker-title{line-height:1.8em;text-align:center;}
+.ui-timepicker-table td{padding:0.1em;width:2.2em;}
+.ui-timepicker-table th.periods{padding:0.1em;width:2.2em;background:#222;color:#fff;border:1px solid #ddd;}
+.ui-timepicker-table td span{display:block;padding:0.2em 0.3em 0.2em 0.5em;width:1.2em;text-align:right;text-decoration:none;}
+.ui-timepicker-table td a{display:block;padding:0.2em 0.3em 0.2em 0.5em;width:1.2em;cursor:pointer;text-align:right;text-decoration:none;background:rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #ededed 0%, #dedede 100%) repeat scroll 0 0;}
+.ui-timepicker .ui-timepicker-buttonpane{background:none;margin:.7em 0 0 0;padding:0 .2em;border-left:0;border-right:0;border-bottom:0;border:1px #ddd solid;}
+.ui-timepicker .ui-timepicker-buttonpane button{margin:.5em .2em .4em;cursor:pointer;padding:.2em .6em .3em .6em;width:auto;overflow:visible;}
+.ui-timepicker .ui-timepicker-close{float:right
+border:1px solid #ddd;background:#ddd;}
+.ui-timepicker .ui-timepicker-now{float:left;}
+.ui-timepicker .ui-timepicker-deselect{float:left;}
+.ui-timepicker-inline{display:inline;}
+#ui-timepicker-div{background-color:#fff;padding:0.2em;}
+.ui-timepicker-table{display:inline-table;width:0;}
+.ui-timepicker-table table{border-collapse:collapse;margin:0.15em 0 0;}
+.ui-timepicker-hours, .ui-timepicker-minutes{padding:0.2em;}
+.ui-timepicker-table .ui-timepicker-title{line-height:1.8em;text-align:center;}
+.ui-timepicker-table td{padding:0.1em;width:2.2em;}
+.ui-timepicker-table th.periods{padding:0.1em;width:2.2em;}
+.ui-timepicker-table td span{display:block;padding:0.2em 0.3em 0.2em 0.5em;text-align:right;text-decoration:none;width:1.2em;}
+.ui-timepicker-table td a{cursor:pointer;display:block;padding:0.2em 0.3em 0.2em 0.5em;text-align:right;text-decoration:none;width:1.2em;}
+.ui-timepicker .ui-timepicker-buttonpane{background-image:none;border:1px solid #ddd;margin:0.7em 0 0;padding:0 0.2em;}
+.ui-timepicker .ui-timepicker-buttonpane button{cursor:pointer;margin:0.5em 0.2em 0.4em;overflow:visible;padding:0.2em 0.6em 0.3em;width:auto;}
+.ui-timepicker .ui-timepicker-close{}
+.ui-timepicker .ui-timepicker-now{float:left;}
+.ui-timepicker .ui-timepicker-deselect{float:left;}
+.ui-timepicker-cover{display:block;height:200px;left:-4px;position:absolute;top:-4px;width:200px;z-index:-1;}
+.ui-timepicker-title{background:#222 none repeat scroll 0 0;border:1px solid #ddd;color:#fff;}
+.ui-state-default{border:1px solid #55838f;box-shadow:0 0 10px 0 rgba(0, 0, 0, 0.1) inset;color:#666;margin:-1px;position:relative;text-shadow:0 1px 0 #4d7a85;}
+.ui-state-active{background:#222 none repeat scroll 0 0;color:#ddd;text-shadow:0 1px 0 #4d7a85;}
+.ui-state-hover{background:#f7f7f7 none repeat scroll 0 0;border:1px solid #ddd;}

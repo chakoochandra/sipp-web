@@ -1,0 +1,71 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2025-03-16 02:51:07 --> Severity: Notice  --> Undefined variable: penghentian_perkara /var/www/html/application/views/detil_perkara/detil_perkara.php 159
+ERROR - 2025-03-16 05:36:07 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 05:36:12 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152
+ERROR - 2025-03-16 05:36:27 --> Severity: Notice  --> Undefined variable: data /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:36:27 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:37:14 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:37:26 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:37:39 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:37:44 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:37:50 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:38:21 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:38:36 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:38:44 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:38:49 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:38:57 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:39:20 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 05:39:31 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 07:48:35 --> Severity: Notice  --> Undefined variable: penghentian_perkara /var/www/html/application/views/detil_perkara/detil_perkara.php 159
+ERROR - 2025-03-16 10:56:52 --> Severity: Notice  --> Undefined variable: penghentian_perkara /var/www/html/application/views/detil_perkara/detil_perkara.php 159
+ERROR - 2025-03-16 10:57:20 --> Severity: Notice  --> Undefined variable: idjenisprk /var/www/html/application/views/perkara_tab/putusan_akhir.php 164
+ERROR - 2025-03-16 12:23:44 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 12:23:50 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 12:23:51 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152
+ERROR - 2025-03-16 12:23:51 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152
+ERROR - 2025-03-16 12:24:10 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 12:24:10 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152
+ERROR - 2025-03-16 12:25:15 --> Severity: Notice  --> Undefined variable: penghentian_perkara /var/www/html/application/views/detil_perkara/detil_perkara.php 159
+ERROR - 2025-03-16 12:25:57 --> Severity: Notice  --> Undefined variable: idjenisprk /var/www/html/application/views/perkara_tab/putusan_akhir.php 164
+ERROR - 2025-03-16 12:27:12 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 12:27:13 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152
+ERROR - 2025-03-16 12:27:31 --> Severity: Notice  --> Undefined variable: penghentian_perkara /var/www/html/application/views/detil_perkara/detil_perkara.php 159
+ERROR - 2025-03-16 12:27:43 --> Severity: Notice  --> Undefined variable: idjenisprk /var/www/html/application/views/perkara_tab/putusan_akhir.php 164
+ERROR - 2025-03-16 12:29:40 --> Severity: Notice  --> Undefined variable: penghentian_perkara /var/www/html/application/views/detil_perkara/detil_perkara.php 159
+ERROR - 2025-03-16 12:31:17 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 12:31:17 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152
+ERROR - 2025-03-16 13:01:55 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 13:01:56 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152
+ERROR - 2025-03-16 13:01:59 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 13:02:00 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152
+ERROR - 2025-03-16 14:47:49 --> Severity: Notice  --> Undefined variable: penghentian_perkara /var/www/html/application/views/detil_perkara/detil_perkara.php 159
+ERROR - 2025-03-16 14:47:57 --> Severity: Notice  --> Undefined variable: idjenisprk /var/www/html/application/views/perkara_tab/putusan_akhir.php 164
+ERROR - 2025-03-16 18:31:52 --> Severity: Notice  --> Undefined index: idalurperkara /var/www/html/application/controllers/list_perkara.php 110
+ERROR - 2025-03-16 18:31:52 --> Severity: Notice  --> Undefined index: idalurperkara /var/www/html/application/controllers/list_perkara.php 113
+ERROR - 2025-03-16 18:31:55 --> Severity: Notice  --> Undefined index: idalurperkara /var/www/html/application/controllers/list_perkara.php 110
+ERROR - 2025-03-16 18:31:55 --> Severity: Notice  --> Undefined index: idalurperkara /var/www/html/application/controllers/list_perkara.php 113
+ERROR - 2025-03-16 18:31:57 --> Severity: Notice  --> Undefined index: idalurperkara /var/www/html/application/controllers/list_perkara.php 120
+ERROR - 2025-03-16 18:31:57 --> Severity: Notice  --> Undefined index: idalurperkara /var/www/html/application/controllers/list_perkara.php 121
+ERROR - 2025-03-16 18:31:57 --> Severity: Notice  --> Undefined index: idalurperkara /var/www/html/application/controllers/list_perkara.php 120
+ERROR - 2025-03-16 18:31:57 --> Severity: Notice  --> Undefined index: idalurperkara /var/www/html/application/controllers/list_perkara.php 121
+ERROR - 2025-03-16 18:31:57 --> Severity: Notice  --> Undefined variable: idalurperkara /var/www/html/application/views/perkara_list/perkara_list.php 17
+ERROR - 2025-03-16 18:31:57 --> Severity: Notice  --> Undefined variable: idalurperkara /var/www/html/application/views/perkara_list/perkara_list.php 25
+ERROR - 2025-03-16 18:31:57 --> Severity: Notice  --> Undefined variable: idalurperkara /var/www/html/application/views/perkara_list/perkara_list.php 17
+ERROR - 2025-03-16 18:31:57 --> Severity: Notice  --> Undefined variable: idalurperkara /var/www/html/application/views/perkara_list/perkara_list.php 25
+ERROR - 2025-03-16 18:31:58 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2025-03-16 18:31:59 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2025-03-16 18:31:59 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2025-03-16 18:32:00 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2025-03-16 19:35:01 --> Severity: Notice  --> Undefined variable: penghentian_perkara /var/www/html/application/views/detil_perkara/detil_perkara.php 159
+ERROR - 2025-03-16 19:37:14 --> Severity: Notice  --> Undefined variable: idjenisprk /var/www/html/application/views/perkara_tab/putusan_akhir.php 164
+ERROR - 2025-03-16 20:26:16 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 20:26:22 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152
+ERROR - 2025-03-16 20:26:31 --> Severity: Notice  --> Undefined variable: data /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 20:26:31 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 20:27:42 --> Severity: Notice  --> Undefined variable: data /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 20:27:42 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 20:30:34 --> Severity: Notice  --> Undefined variable: data /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 20:30:34 --> Severity: Notice  --> Undefined variable: keyword /var/www/html/application/controllers/list_jadwal_sidang.php 82
+ERROR - 2025-03-16 20:34:28 --> Severity: Notice  --> Undefined offset: 3 /var/www/html/application/controllers/list_jadwal_sidang.php 124
+ERROR - 2025-03-16 20:34:29 --> Severity: Notice  --> Undefined offset: 2 /var/www/html/application/controllers/list_jadwal_sidang.php 152

@@ -1,0 +1,24 @@
+#autokomplit{
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 0;
+	text-indent: 0;
+	position:absolute;
+}
+.detil #tableDetilPerkara tr td ul{
+	margin-top:-1px;
+	list-style: none;
+	background-color:white;
+	border:1px solid;
+}
+.detil #tableDetilPerkara tr td li{
+	margin-left:-40px;
+	padding-left:10px;
+	width:338px;
+}
+.detil #tableDetilPerkara tr td li:hover{
+	 background-color:#3399FF;
+}
+.detil #tableDetilPerkara tr td a{
+	 color:#5b5b5b;
+}

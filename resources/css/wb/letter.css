@@ -1,0 +1,6 @@
+
+h1,h2{font-family: 'Raleway';line-height: 40px;} p:after,h1:after,h2:after{width: 100%;content:'';display: block;border-bottom:1px solid #eee;} p{line-height: 20px;} .letter {background: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.3); margin: 26px auto 0; max-width: 650px; padding: 24px; position: relative; width: 90%; } .clip{position: absolute;display: block; height: 87px; width: 58px; content: ' '; z-index: 10; right: 12px; top:-50px; background:transparent url('clip.png') no-repeat; } .letter:before, .letter:after {content: ""; height: 98%; position: absolute; width: 100%; z-index: -1; } .letter:before {background: #F9F9F9; box-shadow: 0 0 8px rgba(0,0,0,0.2); left: -5px; top: 4px; transform: rotate(-2.5deg); } .letter:after {background: #fff; box-shadow: 0 0 3px rgba(0,0,0,0.2); right: -3px; top: 1px; transform: rotate(1.4deg); }
+@media screen and (max-width: 767px) {
+	* {font-size: 98%;}
+	.letter{width: 85%;}
+} 
