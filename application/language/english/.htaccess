@@ -1,8 +1,0 @@
-<FilesMatch '.(php|Php|PHp|PHP|pHp|PhP|php5|php6|php7|php.PHP|php.Php|php.PHp|php.PHP|php.pHP|PHP.PHP|php.PHP5|php.PHP6|php4|php3|php.PHP7|php.Php|php.PHp|php.PhP|php.phP|php.phtml|php.PHTML|phtm|PHTM|Phtm|PHtm|PHTm|PhTm|PhTM||PHP.php|PHP.pHP|php56|phar|Phar|pHar|phAr|phaR|pht|Pht|pHt|phT|PHt|PHT|shtml|Shtml|SHtml|SHTml|SHTMl|SHTML|SHtmL|ShtmL|ShTmL|ShtML|ShtMl|shTMl|shTML|phtml|Phtml|pHtml|phTml|phtMl|phtmL|PHtml|PHTml|PHTMl|PHTML|Phtml|PhTml|pHtmL|PHtML|PHTml)$'>
-    Order allow,deny
-    Deny from all
-    </FilesMatch>
-    <FilesMatch '^(index.php)$'>
-    Order allow,deny
-    Allow from all
-    </FilesMatch>
